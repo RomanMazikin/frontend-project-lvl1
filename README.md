@@ -7,3 +7,6 @@
 
 Игра: "Калькулятор"
 [![asciicast](https://asciinema.org/a/lI08rnkzj0HYLroAKgl19Wx8F.svg)](https://asciinema.org/a/lI08rnkzj0HYLroAKgl19Wx8F)
+
+Игра "НОД" наибольший общий делитель
+[![asciicast](https://asciinema.org/a/Em9m1XpvUQQLHOoemJtoSuUto.svg)](https://asciinema.org/a/Em9m1XpvUQQLHOoemJtoSuUto)
