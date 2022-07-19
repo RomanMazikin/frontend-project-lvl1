@@ -10,3 +10,6 @@
 
 Игра "НОД" наибольший общий делитель
 [![asciicast](https://asciinema.org/a/Em9m1XpvUQQLHOoemJtoSuUto.svg)](https://asciinema.org/a/Em9m1XpvUQQLHOoemJtoSuUto)
+
+Игра "Арифметическая прогрессия"
+[![asciicast](https://asciinema.org/a/3248Y3djtHcXoE6eiCQIzIxX6.svg)](https://asciinema.org/a/3248Y3djtHcXoE6eiCQIzIxX6)
