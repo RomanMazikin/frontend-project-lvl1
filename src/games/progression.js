@@ -25,10 +25,9 @@ const taskResult = () => {
   const secretIndex = randomNumber(minOfRandomNumber, lengthProgression);
   const secretItem = progression[secretIndex];
   progression[secretIndex] = '..';
-  const question = `Question: ${progression.join(' ')}`;
-  const rightAnswer = String(secretItem);
-  const questionAnswer = [question, rightAnswer];
-  return questionAnswer;
+  const question = progression.join(' ');
+  const correctAnswer = String(secretItem);
+  return [question, correctAnswer];
 };
 
 const startProgression = () => {
