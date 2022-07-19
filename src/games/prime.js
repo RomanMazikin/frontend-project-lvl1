@@ -3,7 +3,7 @@ import start from '../index.js';
 
 const rules = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
-const Prime = (num) => {
+const prime = (num) => {
   if (num < 2) return true;
   let isPrime = true;
   for (let i = 2; i < num; i += 1) {
@@ -17,7 +17,7 @@ const Prime = (num) => {
 
 const taskResult = () => {
   const question = randomNumber(1, 100);
-  const correctAnswer = Prime(question) ? 'yes' : 'no';
+  const correctAnswer = prime(question) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
 
